@@ -25,7 +25,7 @@
   &nbsp;  🚀 Evoluindo em projetos front-end e back end <br/>
   &nbsp; 📚 Requisitos de software, projetar soluções e resolução de problemas, documentação técnica, segurança e qualidade de software e sistemas, metodologia ágil.
 
-  Experiência em desenvolvimento de sistemas, utilizando **ReactJs** e **ReactNative** para projetos front end web e mobile, e **NodeJs** para projetos em back end. Conhecimento e experiência em **JavaScript**, **C**, **Python**, **Automação e automatização de processos**.
+  Experiência em desenvolvimento de sistemas, utilizando **ReactJs** e **ReactNative** para projetos front end web e mobile, e **NodeJs** para projetos em back end. Conhecimento e experiência em **JavaScript**, **C**, **Python**, **Automação e Automatização de Processos**.
 
   Desenvolvendo pesquisa na área de visão computacional, utilizando YOLO.
 
