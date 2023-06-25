@@ -1,7 +1,7 @@
 <h1 align="center"> Kamila Antunes</h1>
 
 <div  align="center">
-  <b> Acadêmica de engenharia de software | Front end & Back end = Full stack </b>
+  <b> Acadêmica de engenharia de software | Front end </b>
   <br /> <br />
 </div>
 
