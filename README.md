@@ -1,7 +1,7 @@
 <h1 align="center"> Kamila Antunes</h1>
 
 <div  align="center">
-  <b> Acadêmica de engenharia de software | Automação de processos | AWS | DevOps | Front end </b>
+  <b> Acadêmica de engenharia de software | Analista de requisitos | Automação de processos | AWS | DevOps | Front end </b>
   <br /> <br />
 </div>
 
