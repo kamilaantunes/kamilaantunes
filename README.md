@@ -1,7 +1,7 @@
 <h1 align="center"> Kamila Antunes</h1>
 
 <div  align="center">
-  <b> Mestranda em Informática | Engenharia de software | Analista de requisitos | Automação de processos | AWS | DevOps | Front end </b>
+  <b> Mestranda em Informática | Engenharia de software | Product Owner </b>
   <br /> <br />
 </div>
 
