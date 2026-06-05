@@ -1,7 +1,7 @@
 <h1 align="center"> Kamila Antunes</h1>
 
 <div  align="center">
-  <b> Mestranda em Informática | Engenharia de software | Product Owner </b>
+  <b> Mestre em Informática | Engenheira de Software | Product Owner </b>
   <br /> <br />
 </div>
 
